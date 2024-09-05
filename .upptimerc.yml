@@ -9,9 +9,26 @@ sites:
     url: https://homeassistant.maav.duckdns.org
   - name: SWAG
     url: https://maav.duckdns.org
+  - name: PocketBase Maison
+    url: https://pkbase.maav.duckdns.org
+  - name: HomeAssistant Maison
+    url: https://HomeAssistant.maav.duckdns.org
+  - name: Plex Maison
+    url: https://Plex.maav.duckdns.org
+  - name: Anaelle Birthday
+    url: https://AnaelleBirthday.com
+  - name: Deelim - Site
+    url: https://deelim.com
+  - name: Deelim - API
+    url: https://api.deelim.com
+    expectedStatusCodes: 
+      - 404
+  - name: Deelim - API (TEST)
+    url: https://api.test.deelim.com
+    expectedStatusCodes: 
+      - 404
 
 status-website:
-
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
