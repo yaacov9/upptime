@@ -22,18 +22,20 @@
     "url": "https://homeassistant.maav.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.maav.duckdns.org.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 628,
     "timeDay": 515,
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 628,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 2
+    }
   },
   {
     "name": "SWAG",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 72,
+      "2024-09-08": 456,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 106
@@ -75,7 +77,7 @@
     "timeMonth": 2035,
     "timeYear": 2035,
     "dailyMinutesDown": {
-      "2024-09-08": 72,
+      "2024-09-08": 456,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 98
@@ -116,7 +118,7 @@
     "timeMonth": 3377,
     "timeYear": 3377,
     "dailyMinutesDown": {
-      "2024-09-08": 72,
+      "2024-09-08": 456,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 98
