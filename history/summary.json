@@ -23,13 +23,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.maav.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "96.82%",
+    "uptime": "98.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.88%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 3848,
-    "timeDay": 1312,
+    "timeDay": 1886,
     "timeWeek": 4716,
     "timeMonth": 3848,
     "timeYear": 3848,
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-03": 70,
+      "2024-10-03": 656,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -108,7 +108,7 @@
     "timeMonth": 2843,
     "timeYear": 2843,
     "dailyMinutesDown": {
-      "2024-10-03": 70,
+      "2024-10-03": 656,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -145,13 +145,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.maav.duckdns.org.ico",
     "slug": "home-assistant-maison",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "98.08%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 1253,
-    "timeDay": 3424,
+    "timeDay": 140,
     "timeWeek": 756,
     "timeMonth": 1253,
     "timeYear": 1253,
@@ -179,7 +179,7 @@
     "timeMonth": 3456,
     "timeYear": 3456,
     "dailyMinutesDown": {
-      "2024-10-03": 70,
+      "2024-10-03": 656,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -233,10 +233,10 @@
     "url": "https://deelim.com",
     "icon": "https://icons.duckduckgo.com/ip3/deelim.com.ico",
     "slug": "deelim-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 828,
@@ -244,7 +244,9 @@
     "timeWeek": 736,
     "timeMonth": 828,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 1
+    }
   },
   {
     "name": "Deelim - API",
@@ -269,9 +271,9 @@
     "url": "https://api.test.deelim.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.test.deelim.com.ico",
     "slug": "deelim-api-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -280,6 +282,8 @@
     "timeWeek": 405,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   }
 ]
