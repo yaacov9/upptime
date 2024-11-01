@@ -67,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 185,
+      "2024-11-01": 221,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -144,7 +144,7 @@
     "timeMonth": 2475,
     "timeYear": 2746,
     "dailyMinutesDown": {
-      "2024-11-01": 185,
+      "2024-11-01": 221,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -249,7 +249,7 @@
     "timeMonth": 2926,
     "timeYear": 3280,
     "dailyMinutesDown": {
-      "2024-11-01": 185,
+      "2024-11-01": 221,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -314,19 +314,19 @@
     "url": "https://AnaelleBirthday.com",
     "icon": "https://icons.duckduckgo.com/ip3/anaellebirthday.com.ico",
     "slug": "anaelle-birthday",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 169,
-    "timeWeek": 292,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 302,
+    "timeDay": 308,
+    "timeWeek": 311,
+    "timeMonth": 305,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-11-01": 0
+      "2024-11-01": 36
     }
   },
   {
