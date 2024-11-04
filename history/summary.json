@@ -69,7 +69,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 784,
+      "2024-11-04": 817,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -149,7 +149,7 @@
     "timeMonth": 2948,
     "timeYear": 2846,
     "dailyMinutesDown": {
-      "2024-11-04": 784,
+      "2024-11-04": 817,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -217,9 +217,9 @@
     "url": "https://HomeAssistant.maav.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.maav.duckdns.org.ico",
     "slug": "home-assistant-maison",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "93.22%",
+    "uptimeDay": "93.17%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.98%",
@@ -229,7 +229,7 @@
     "timeMonth": 561,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2024-11-04": 82,
+      "2024-11-04": 83,
       "2024-11-03": 16,
       "2024-11-02": 38,
       "2024-10-25": 69,
@@ -260,7 +260,7 @@
     "timeMonth": 3240,
     "timeYear": 3296,
     "dailyMinutesDown": {
-      "2024-11-04": 784,
+      "2024-11-04": 817,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
