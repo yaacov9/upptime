@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 77,
+      "2024-12-12": 188,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -193,7 +193,7 @@
     "timeMonth": 1224,
     "timeYear": 2379,
     "dailyMinutesDown": {
-      "2024-12-12": 77,
+      "2024-12-12": 188,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -344,7 +344,7 @@
     "timeMonth": 1592,
     "timeYear": 2662,
     "dailyMinutesDown": {
-      "2024-12-12": 77,
+      "2024-12-12": 188,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -518,9 +518,9 @@
     "url": "https://api.test.deelim.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.test.deelim.com.ico",
     "slug": "deelim-api-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "97.55%",
+    "uptimeDay": "97.53%",
     "uptimeWeek": "96.97%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.66%",
@@ -530,6 +530,7 @@
     "timeMonth": 306,
     "timeYear": 362,
     "dailyMinutesDown": {
+      "2024-12-12": 0,
       "2024-12-11": 35,
       "2024-12-09": 227,
       "2024-12-05": 42,
