@@ -1,7 +1,7 @@
 url: https://api.deelim.com
-status: up
-code: 404
-responseTime: 399
-lastUpdated: 2024-12-25T23:19:50.970Z
+status: down
+code: 502
+responseTime: 455
+lastUpdated: 2024-12-26T07:37:53.144Z
 startTime: 2024-09-05T22:22:12.644Z
 generator: Upptime <https://github.com/upptime/upptime>
