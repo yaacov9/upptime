@@ -1,7 +1,7 @@
 url: https://homeassistant.maav.duckdns.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-10T12:26:45.335Z
+status: up
+code: 200
+responseTime: 6973
+lastUpdated: 2025-02-10T13:00:30.975Z
 startTime: 2024-09-05T22:13:35.674Z
 generator: Upptime <https://github.com/upptime/upptime>
