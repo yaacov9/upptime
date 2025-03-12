@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 243,
     "timeWeek": 132,
     "timeMonth": 134,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2025-03-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HomeAssistant",
@@ -32,7 +30,7 @@
     "uptimeYear": "96.18%",
     "time": 3023,
     "timeDay": 5798,
-    "timeWeek": 3205,
+    "timeWeek": 3040,
     "timeMonth": 2895,
     "timeYear": 3023,
     "dailyMinutesDown": {
@@ -106,7 +104,8 @@
     "timeMonth": 474,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-12": 73,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -313,7 +312,8 @@
     "timeMonth": 2062,
     "timeYear": 2256,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-12": 74,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -567,7 +567,8 @@
     "timeMonth": 1531,
     "timeYear": 2294,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-12": 74,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -783,11 +784,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deelim.com.ico",
     "slug": "deelim-site",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 706,
     "timeDay": 439,
     "timeWeek": 576,
